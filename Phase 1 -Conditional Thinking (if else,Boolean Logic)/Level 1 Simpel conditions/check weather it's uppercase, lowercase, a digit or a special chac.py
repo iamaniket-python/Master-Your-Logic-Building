@@ -12,4 +12,3 @@ if len(char) == 1:
         print("It is a special symbol")
 else:
     print("Please enter only a single character.")
-
