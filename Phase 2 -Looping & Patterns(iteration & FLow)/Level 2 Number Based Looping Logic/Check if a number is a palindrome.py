@@ -1,5 +1,5 @@
 n=int(input("Enter a Number= "))
-original =n
+original = n
 palidrome=0
 
 while n > 0:
